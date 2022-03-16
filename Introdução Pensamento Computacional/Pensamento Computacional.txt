@@ -1,0 +1,27 @@
+O que é o pensamento computacional?
+
+O pensamento computacional é o processo de entender aspectos da computação em nosso mundo e aplicar ferramentas e técnicas para facilitar sistemas e processos. Na escola, pode ser exemplificado quando alunos resolvem problemas, dividindo-os em parte e utilizando a lógica.
+
+Esse conceito compreende a habilidade crítica, estratégica e criativa, utilizando os fundamentos da área da computação em diferentes áreas da vida. Assim, seja individualmente, seja em grupo, o(a) aluno(a) consegue pensar racionalmente e resolver questões.
+
+A transformação digital é uma realidade e o campo educacional também precisa se adaptar. A Base Nacional Comum Curricular incluiu a cultura digital na lista de competências gerais, mostrando como é importante que a escola e os pais atentem a essa mudança.
+
+Diferentemente do que o nome sugere, o pensamento computacional não se relaciona apenas à tecnologia ou à programação, muito menos exige o uso de um computador. Essa competência propõe que os indivíduos sejam capazes de identificar problemas e encontrar soluções com criatividade e utilizando outros tipos de conhecimento.
+
+Veja a seguir os princípios fundamentais desse conceito.
+
+Decomposição
+
+Essa habilidade refere-se à capacidade de dividir um problema maior em partes menores. Assim, ao trabalhar cada parte de uma vez, fica mais fácil de o(a) aluno(a) entender o problema e resolvê-lo. A vantagem é que diminui a ansiedade e o medo de enfrentar os desafios. No caso da elaboração de um grande projeto escolar, a decomposição é aplicada quando o(a) estudante se organiza e se propõe a fazer uma parte a cada semana.
+
+Abstração
+
+A abstração propõe o foco nos processos importantes em vez de priorizar os detalhes. Dessa forma, a solução pode ser válida para vários problemas diferentes. Ao aplicá-la na área educacional, o(a) aluno(a) entende como realizar exercícios mais rapidamente e pode usar essas técnicas em matérias diferentes, por exemplo.
+
+Reconhecimento de padrões
+
+O reconhecimento de padrões é outro princípio fundamental do pensamento computacional. Ao realizá-lo, a criança consegue identificar tendências de comportamento e similaridades. A partir disso, é possível pensar em novas soluções, utilizando inovação e criatividade.
+
+Pensamento algorítmico
+
+A palavra algoritmo remete ao seu contexto computacional, mas ele também pode ser empregado para simbolizar a criação de passos e soluções até alcançar um objetivo. É a utilização da lógica e da racionalidade para a solução de problemas.
