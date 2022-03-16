@@ -1,0 +1,39 @@
+O que faz um desenvolvedor de software?
+
+Como o próprio nome sugere, esse profissional é responsável por desenvolver aplicações para dispositivos. Tal qual um programador, deve conhecer linguagens de programação. Mas sua função vai além das linhas de códigos: envolve desde a concepção do projeto até sua validação por meio de testes e junto aos clientes.
+
+Em geral, os desenvolvedores se dividem entre quatro áreas: front-end (mais focada na interface utilizada pelos usuários); back-end (focada nos “bastidores” do software); full-stack (intersecção entre as duas áreas) e mobile (voltada a dispositivos móveis). A demanda por esses profissionais, vale dizer, está cada vez menos limitada às empresas que trabalham diretamente com tecnologia.
+
+“Todas as empresas, sejam startups ou grandes corporações, precisam desenvolver processos que envolvem tecnologia”, explica Tomás Ferrari, fundador e CEO da GeekHunter, especializada na contratação de desenvolvedores e cientistas de dados. As vagas disponíveis na plataforma da empresa triplicaram ao longo de 2020. Das 537 posições em aberto em janeiro, 500 eram para desenvolvedores.
+
+Que habilidades um desenvolvedor de software deve ter?
+
+As linguagens de programação são um dos requisitos para quem busca emprego nessa área. Segundo Ferrari, Java Script e Phyton são algumas das mais buscadas hoje em dia. Para quem está começando, ele recomenda o foco na lógica de programação, que dá base para as diferentes linguagens. “A lógica garante que o profissional consiga, independentemente da tecnologia, estar preparado para se adaptar. O mercado olha muito para isso”, diz.
+
+Assim como em qualquer área, as habilidades técnicas são apenas um dos aspectos avaliados. Habilidades comportamentais, as chamadas soft skills, também são importantes. Comunicação e adaptabilidade são dois exemplos citados por Ferrari. “A tecnologia avança muito rápido. Se o profissional não se adapta, fica defasado em pouquíssimo tempo”, diz. A variedade de projetos e etapas envolvidas em cada um deles também exige essa habilidade, segundo ele.
+
+Paulo Moraes, diretor do Talenses Group e responsável pelo recrutamento na área de TI, concorda. Também cita características como capacidade analítica, agilidade, capacidade de resolução de problemas e planejamento e execução de projetos como outros exemplos. “Com a inovação e mudanças aceleradas do mercado, o profissional que tiver a habilidade de desenvolver novas capacidades rapidamente com certeza será mais valorizado”, diz.
+
+Como se capacitar na área de desenvolvimento de software?
+
+Alguns profissionais optam por cursos como o de Ciência da Computação e depois se especializam como desenvolvedores. Mas este é só um dos caminhos possíveis. Tanto ela quanto Ferrari, da GeekHunter, acreditam que as grades curriculares das universidades não têm acompanhado as transformações do mercado. Uma das tendências, segundo ele, é recorrer aos chamados bootcamps, que oferecem uma formação intensiva.
+
+Também tem sido comum ver profissionais de outras áreas migrando para a de desenvolvimento. Foi o caso de Anne Zimmermann, 35. Ela havia começado um curso na área em 2003, mas desistiu e seguiu carreira na contabilidade. “Naquela época, era difícil darem oportunidades para mulheres nessa área. Algumas pessoas também me desmotivaram”, diz ela. Seu caso não é isolado: uma pesquisa realizada pela Codenation em 2019 mostrou que mulheres ainda encontram obstáculos para ingressar no setor de tecnologia.
+
+Em 2019, após o marido começar a trabalhar como desenvolvedor, ela voltou a ter vontade de seguir esse caminho. Deixou o emprego na área contábil e começou a faculdade de Análise de Desenvolvimento de Sistemas. Cerca de dois meses depois, conseguiu seu primeiro estágio. “As pessoas não devem ter medo de arriscar mudar de área. Às vezes você precisa dar uns passos para trás para ir mais longe”, diz ela.
+
+Quais são as oportunidades para desenvolvedores de software?
+
+Com as transformações digitais, profissionais dessa área são cada vez mais necessários. O estudo "Guia Salarial 2021", feito pela consultoria de recursos humanos Robert Half, aponta essa como uma das profissões que estarão em alta no país este ano. Segundo Moraes, do Talenses Group, porém, a demanda pode variar de acordo com o desempenho de empresas e setores na crise. 
+
+“Com a pandemia, milhares de empresas precisaram colocar projetos em stand-by, reduzindo seus orçamentos e seus planos de expansão dos negócios. Mas acredito que o impacto setorial mais expressivo já tenha passado”, avalia. Profissionais também podem avaliar oportunidades em diferentes tipos de empresa. Em janeiro, das 222 vagas abertas por startups do Cubo Itaú, 38 eram para desenvolvedores. Já o Itaú abriu cerca de 2,3 mil de vagas relacionadas a desenvolvimento de software ao longo de 2020.
+
+Para Anne, um dos aspectos positivos da área é a flexibilidade. Após cerca de um ano no primeiro estágio, voltado ao desenvolvimento, ela decidiu ingressar na área de suporte, mais ligada ao atendimento. Ela não apenas teve facilidade para migrar de uma função a outra como também usa os conhecimentos prévios na área de finanças. Hoje, quer crescer na empresa onde está trabalhando. Mas tem planos maiores para o futuro. “Tenho vontade de morar fora. Tem muitas oportunidades em outros países”, diz ela.
+
+Os projetos freelance também são comuns nessa área. “O aspecto positivo disso é a possibilidade de o profissional conseguir trabalhar em vários perfis de empresas diferentes, com projetos e escopos também bastante dinâmicos”, diz Moraes.
+
+Como avaliar uma oportunidade de emprego na área?
+
+Na busca por oportunidades, é importante analisar tanto a vaga quanto a si mesmo. Vale refletir, por exemplo, sobre sua disposição a assumir riscos, a preferência por trabalhos individuais ou em equipe e os aspectos organizacionais mais importantes – do salário ao posicionamento social e sustentável da companhia.
+
+“Qualquer que seja o perfil da empresa, haverá pontos positivos e negativos. Além desse processo de autoconhecimento, é importante o profissional tentar conhecer o máximo possível sobre a empresa”, recomenda Moraes. Outra dica é conversar com pessoas que já trabalham na área – e, claro, pesquisar muito sobre ela.
