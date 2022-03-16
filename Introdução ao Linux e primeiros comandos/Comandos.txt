@@ -1,0 +1,25 @@
+ls → Lista os arquivos e pastas que há no diretório onde você se encontra.
+
+ls -al → Lista de uma forma organizada, colocando informações como "data de modificação" e organiza em lista.
+
+ls -A → Mostra tanto arquivos e pastas normais, quanto ocultos. Para criar um arquivo oculto apenas renomear-lo e colocar um "." (ponto) na frente do nome. Como "123" para ".123".
+
+cd → o comando (change disk) serve para navegar entre os diretórios de seu computador.
+
+cd .. → volta um diretório.
+
+cd <Diretório> → Navega para onde você quer ir. Exemplo: cd ~/Documentos ( o "~" significa /home/<seu-user>/)
+
+pwd → Mostra onde você está.
+
+whoami → Mostra quem você é ou host.
+
+mkdir → Cria pastas
+
+Exemplo: mkdir pasta
+
+rm → Remove arquivos ou diretórios.
+
+rm -r → Remove diretórios e arquivos sem exceção.
+
+--help → esse comando não é um comando por completo, mas sim uma função, talvez você não tenha entendido, então lhe darei um exemplo:
